@@ -146,5 +146,5 @@ This project complements the XR Performance Stress Lab by focusing specifically 
 
 James De Raja
 Senior Real-Time Performance Engineer
-Unity Rendering | Frame Pacing | XR Optimization | CPU/GPU Bottleneck Analysis
+Unity Rendering | Frame Pacing | XR Optimization | CPU/GPU Bottleneck Analysis 
 [Website](james.alphaden.club)   [Portfolio](https://www.linkedin.com/in/james-de-raja/)
